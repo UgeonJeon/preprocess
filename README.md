@@ -1,9 +1,7 @@
 # Modules for preprocessing data
 
-### annotation 
-
-### crop
-
-### clip
-
-### image extraction 
+적재 모듈
+* verify annotation 
+* crop
+* clip extraction
+* image extraction & freeze detection
